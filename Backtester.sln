@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backtester", "Backtester\Backtester.csproj", "{94B482D5-04D0-4D84-A138-9C45B3C44FED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphPlotter", "GraphPlotter\GraphPlotter.csproj", "{51E1CEED-3CDF-480C-A0E4-7A0AAE66ED0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B482D5-04D0-4D84-A138-9C45B3C44FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B482D5-04D0-4D84-A138-9C45B3C44FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B482D5-04D0-4D84-A138-9C45B3C44FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B482D5-04D0-4D84-A138-9C45B3C44FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E1CEED-3CDF-480C-A0E4-7A0AAE66ED0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E1CEED-3CDF-480C-A0E4-7A0AAE66ED0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E1CEED-3CDF-480C-A0E4-7A0AAE66ED0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E1CEED-3CDF-480C-A0E4-7A0AAE66ED0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
